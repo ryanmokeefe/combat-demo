@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Knight-Game",
+"dataUrl": "Combat-Demo.data.unityweb",
+"wasmCodeUrl": "Combat-Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Combat-Demo.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
